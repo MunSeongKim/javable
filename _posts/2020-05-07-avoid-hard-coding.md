@@ -2,11 +2,8 @@
 layout: post
 title: "하드코딩을 피해라."
 author: "둔덩"
-<<<<<<< Updated upstream
-=======
 comment: "true"
 tags: ["hard-codding", "clean-code"]
->>>>>>> Stashed changes
 ---
 
 안 좋은 코딩 습관을 얘기할 때면 꼭 언급되는 것이 하드코딩이다.

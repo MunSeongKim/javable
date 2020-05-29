@@ -6,7 +6,6 @@ comment: "true"
 tags: ["OOP", "composition", "inheritance", "clean-code"]
 ---
 
-
 우리는 다양한 이유로 상속을 사용한다.
 
 1.  코드를 재사용함으로써 중복을 줄일 수 있다.
