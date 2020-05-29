@@ -3,7 +3,10 @@ layout: post
 title: "하드코딩을 피해라."
 author: "둔덩"
 comment: "true"
+<<<<<<< HEAD
 tags: ["hard-codding", "clean-code"]
+=======
+>>>>>>> 7c83202e9c767a92a9ecb7508965bdcc73a095c9
 ---
 
 안 좋은 코딩 습관을 얘기할 때면 꼭 언급되는 것이 하드코딩이다.
